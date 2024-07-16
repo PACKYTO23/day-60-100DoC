@@ -5,3 +5,4 @@ Day 60 - Advanced Make POST Requests with Flask and HTML Forms
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (15/07/2024); update tomorrow.
+    Finished practice (16/07/2024); updated.
